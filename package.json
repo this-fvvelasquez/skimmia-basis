@@ -1,0 +1,8 @@
+{
+	"name": "skimmia-basis",
+	"version": "0.0.0",
+	"description": "'skimmia-backend-challenge' basics. Se resuelve con complejidad CERO.",
+	"main": "index.js",
+	"author": "fvvelasquez this.fvvelasquez@gmail.com",
+	"license": "ISC"
+}
